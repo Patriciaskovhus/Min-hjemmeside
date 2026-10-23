@@ -1,6 +1,5 @@
 ---
 title: "Projekt"
-format: html
 ---
 
 # AI som beslutningsstøtte til mammografi screening
