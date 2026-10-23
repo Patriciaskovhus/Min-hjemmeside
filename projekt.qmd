@@ -1,0 +1,12 @@
+---
+title: "Projekt"
+format: html
+---
+
+# AI som beslutningsstøtte til mammografi screening
+I dag bruger region hovedstaden AI, som hjælpeværktøj til vudering af mammografi screening
+
+### Redegørelse
+### Analyse
+### Konklusion
+Vi kan konkludere at det giver virkelig god mening for systemet at benytte AI, men det er også værd at overveje de etike probelmer samt at undersøge hvordan det påvirker en profession

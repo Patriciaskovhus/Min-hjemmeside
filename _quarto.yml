@@ -1,9 +1,17 @@
 project:
-    type: website
+  type: website
 
 website:
-    title: "Patricia H. S."
-    navbar:
+  title: "Patricia H. S."
+  navbar:
     left:
-        - index.qmd
-#vi laver et projekt der skal være en webside, navbaren er navigations baren, her skal indexsiden være
+      - href: index.qmd
+        text: Home
+      - CV.qmd
+      - erffaring.qmd
+      - projekt.qmd
+      - python-kode.qmd
+
+format:
+  html:
+    theme: lux

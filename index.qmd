@@ -1,8 +1,6 @@
 ---
-title: "Welcome"
-format: html
-    theme: cosmo
+title: "Home"
 ---
 
-# Welcome to My Webside
+Velkommen til min hjemmeside!
 

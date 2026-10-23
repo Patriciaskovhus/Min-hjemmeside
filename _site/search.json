@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Velkommen til min hjemmeside!"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Jeg hedder Patricia, 21 år gammel, bor i aalborg"
+  },
+  {
+    "objectID": "erffaring.html",
+    "href": "erffaring.html",
+    "title": "Erfaring",
+    "section": "",
+    "text": "Tideligere arbejde\nMcd 2012-2020\nKvickly 2015-2020\n\nSkolegang\nVodskov Skole 2010-2020"
+  },
+  {
+    "objectID": "projekt.html",
+    "href": "projekt.html",
+    "title": "Projekt",
+    "section": "",
+    "text": "AI som beslutningsstøtte til mammografi screening\nI dag bruger region hovedstaden AI, som hjælpeværktøj til vudering af mammografi screening\n\nRedegørelse\n\n\nAnalyse\n\n\nKonklusion\nVi kan konkludere at det giver virkelig god mening for systemet at benytte AI, men det er også værd at overveje de etike probelmer samt at undersøge hvordan det påvirker en profession"
+  },
+  {
+    "objectID": "python-kode.html",
+    "href": "python-kode.html",
+    "title": "Python-kode",
+    "section": "",
+    "text": "Hvad er et markdown"
+  }
+]
