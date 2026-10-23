@@ -1,0 +1,9 @@
+project:
+    type: website
+
+website:
+    title: "Patricia H. S."
+    navbar:
+    left:
+        - index.qmd
+#vi laver et projekt der skal være en webside, navbaren er navigations baren, her skal indexsiden være
